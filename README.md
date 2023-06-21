@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there my name is Parker Budding 👋
+
+I have a long history in SAAS sales and made the jump into development! 
+
+I took a web development bootcamp in Ruby, Javascript, CSS, Heroku etc..
+
+Currently looking to expand my knowledge and grow into a development role in the future! 
 
 <!--
 **pbudd11/pbudd11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
